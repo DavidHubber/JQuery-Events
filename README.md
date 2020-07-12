@@ -1,9 +1,8 @@
+<<<<<<< HEAD
 ### Code Institiute - Working With External Resources  -  Data & The DOM
 
 
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0; height: 15%; width: 15%;">
-
-***
 
 ***
 ## Course  >  Working With External Resources  >  Data & The DOM 
